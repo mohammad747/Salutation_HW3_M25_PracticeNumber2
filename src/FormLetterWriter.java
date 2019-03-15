@@ -1,3 +1,11 @@
+/*
+practice number 2
+ */
+/*
+Written by: Mohammad Hashemi
+Tuesday,March 12 2019
+سه شنبه،21اسفند97
+ */
 public class FormLetterWriter {
     void displaySalutation(String customerLastNanme){
         System.out.print("Dear Mr. "+customerLastNanme+" ");
